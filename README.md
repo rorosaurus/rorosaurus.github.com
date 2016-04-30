@@ -24,7 +24,7 @@ My original personal website, in case you were morbidly curious.
 ### hubpress.io ([repo](https://github.com/rorosaurus/hubpress.io), [live site](https://rorosaurus.github.io/hubpress.io/))
 My fork of hubpress for tinkering and learning.
 
-### spotify-webapi-player ([repo](https://github.com/rorosaurus/spotify-webapi-player), [live site](https://rorosaurus.github.io/spotify-webapi-player/#/))
+### spotify-webapi-player ([repo](https://github.com/rorosaurus/spotify-webapi-player), [live site](https://rorosaurus.github.io/spotify-webapi-player/))
 A fork of an example web player using Spotify's web API, with the intention of eventually helping to quickly sort songs into appropriate playlists.
 
 ## Older Projects
