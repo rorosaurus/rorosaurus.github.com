@@ -32,7 +32,7 @@ A fork of an example web player using Spotify's web API, with the intention of e
 ### tf2-bot ([repo](https://github.com/rorosaurus/tf2-bot))
 A small but powerful utility to assist the user in partial automation of item trading and crafting in Team Fortress 2.
 
-## Maze-of-Life ([repo](https://github.com/rorosaurus/Maze-of-Life))
+### Maze-of-Life ([repo](https://github.com/rorosaurus/Maze-of-Life))
 An assignment from University, to solve [Maze of Life](http://clickmazes.com/life/ixlife.htm) problems.
 
 ### LoadGenerator ([repo](https://github.com/rorosaurus/LoadGenerator))
