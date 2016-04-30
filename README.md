@@ -1,6 +1,6 @@
 ## About Me
 
-Please see my personal website, [roryhay.es](https://roryhay.es/), for more information about me.
+Please see my personal website, [**roryhay.es**](https://roryhay.es/), for more information about me.
 
 I use GitHub to host a number of projects.  Most are experimental; few are useful.
 
