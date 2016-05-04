@@ -27,6 +27,11 @@ My fork of hubpress for tinkering and learning.
 ### spotify-webapi-player ([repo](https://github.com/rorosaurus/spotify-webapi-player), [live site](https://rorosaurus.github.io/spotify-webapi-player/))
 A fork of an example web player using Spotify's web API, with the intention of eventually helping to quickly sort songs into appropriate playlists.
 
+## Gists
+
+### Josephus problem solver ([gist](https://gist.github.com/rorosaurus/e0e9354878a49cb51705))
+A quick and dirty solver attempting to help aquire a flag as part of the [2015 Exodus Adventure CTF](https://blog.exodusintel.com/2015/04/27/exodus-adventure-ctf-2015/), which is a modified [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem) with an interesting twist!
+
 ## Older Projects
 
 ### tf2-bot ([repo](https://github.com/rorosaurus/tf2-bot))
