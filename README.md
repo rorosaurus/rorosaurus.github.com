@@ -11,10 +11,10 @@ All my public repositories are available on my [GitHub account page](https://git
 ## Projects
 
 ### hidden-konami-js ([repo](https://github.com/rorosaurus/hidden-konami-js), [live site](https://rorosaurus.github.io/hidden-konami-js/))
-A modified konami-js fork that allows for custom input patterns, which are obfuscated by hash to keep them (and the easter egg function location) secret
+A modified konami-js fork that allows for custom input patterns.  These patterns are obfuscated by hash to keep them (and the easter egg function location) secret.
 
 ### crisp-ghost-theme ([repo](https://github.com/rorosaurus/crisp-ghost-theme), [live site](https://roryhay.es/))
-A minimalist, responsive, and open-source theme for Ghost, customized for me
+A minimalist, responsive, and open-source theme for Ghost, customized for me!
 
 ### roryhay.es-v1.0 ([repo](https://github.com/rorosaurus/roryhay.es-v1.0), [live site](https://rorosaurus.github.io/roryhay.es-v1.0/))
 My original personal website, in case you were morbidly curious.
@@ -36,7 +36,7 @@ A small but powerful utility to assist the user in partial automation of item tr
 An assignment from University, to solve [Maze of Life](http://clickmazes.com/life/ixlife.htm) problems.
 
 ### LoadGenerator ([repo](https://github.com/rorosaurus/LoadGenerator))
-A small python script designed to consume CPU cycles and memory.  Don't use this.
+A small python script designed to consume CPU cycles and memory.  Created to keep my VPS under low/medium load.
 
 ### SiteChecker ([repo](https://github.com/rorosaurus/SiteChecker))
 A proof-of-concept utility used to indicate when the contents of a webpage have changed.  Can also be used to notify the user when contents of a webpage change to include desired results.
@@ -44,4 +44,4 @@ A proof-of-concept utility used to indicate when the contents of a webpage have 
 ***
 
 ## Contact
-You can reach meat roryohayes@gmail.com and I'll do my best to get back to you.
+You can reach me at roryohayes@gmail.com and I'll do my best to get back to you.
